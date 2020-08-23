@@ -1,0 +1,158 @@
+{
+    "themeOneBlogSection": {
+        "blogData": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "date": "Feb 05",
+                "comments": "2 Comments",
+                "share": "5 Share",
+                "title": "Start your business with AppMax",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "date": "Aug 02",
+                "comments": "3 Comments",
+                "share": "No Share",
+                "title": "Everything about a Landing page",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "date": "May 21",
+                "comments": "7 Comments",
+                "share": "10 Share",
+                "title": "How to get more visitor to your website",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog_4.jpg",
+                "date": "Dec 12",
+                "comments": "5 Comments",
+                "share": "2 Share",
+                "title": "Treding design of the month",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 5,
+                "image": "/img/blog_5.jpg",
+                "date": "Jan 23",
+                "comments": "9 Comments",
+                "share": "6 Share",
+                "title": "What is the benifit of a Landing page",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 6,
+                "image": "/img/blog_6.jpg",
+                "date": "Sep 09",
+                "comments": "4 Comments",
+                "share": "10 Share",
+                "title": "Make a responsive website with AppMax",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor.",
+                "btnText": "Read More"
+            }
+        ],
+        "blogDataTwo": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "date": "Feb 05",
+                "comments": "2 Comments",
+                "share": "5 Share",
+                "title": "Start your business with AppMax",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "date": "Aug 02",
+                "comments": "3 Comments",
+                "share": "No Share",
+                "title": "Everything about a Landing page",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "date": "May 21",
+                "comments": "7 Comments",
+                "share": "10 Share",
+                "title": "How to get more visitor to your website",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog_4.jpg",
+                "date": "Dec 12",
+                "comments": "5 Comments",
+                "share": "2 Share",
+                "title": "Treding design of the month",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 5,
+                "image": "/img/blog_5.jpg",
+                "date": "Jan 23",
+                "comments": "9 Comments",
+                "share": "6 Share",
+                "title": "What is the benifit of a Landing page",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 6,
+                "image": "/img/blog_6.jpg",
+                "date": "Sep 09",
+                "comments": "4 Comments",
+                "share": "10 Share",
+                "title": "Make a responsive website with AppMax",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 7,
+                "image": "/img/blog_7.jpg",
+                "date": "Nov 05",
+                "comments": "14 Comments",
+                "share": "4 Share",
+                "title": "How to boost a startup business?",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 8,
+                "image": "/img/blog_8.jpg",
+                "date": "Jan 15",
+                "comments": "2 Comments",
+                "share": "3 Share",
+                "title": "Explore the creative ideas with us",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 9,
+                "image": "/img/blog_9.jpg",
+                "date": "Oct 18",
+                "comments": "4 Comments",
+                "share": "7 Share",
+                "title": "Promote your business worldwide",
+                "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
+                "btnText": "Read More"
+            }
+        ]
+    }
+}
